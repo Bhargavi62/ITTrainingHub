@@ -47,7 +47,7 @@ header {
 
 .hero {
   min-height: 520px;
-  background: linear-gradient(rgba(6,27,74,.85), rgba(6,27,74,.85));
+  background: linear-gradient(rgba(6,27,74,.88), rgba(6,27,74,.88));
   display: flex;
   align-items: center;
   color: white;
@@ -73,11 +73,20 @@ header {
 .btn {
   display: inline-block;
   background: #ff8c00;
-  color: white;
+  color: white !important;
   padding: 14px 28px;
   border-radius: 30px;
   text-decoration: none;
   font-weight: bold;
+  margin: 8px;
+}
+
+.btn.youtube {
+  background: #ff0000;
+}
+
+.btn.instagram {
+  background: #c13584;
 }
 
 .section {
@@ -137,6 +146,15 @@ header {
 
 .contact h2 {
   color: #ffcc00;
+}
+
+.contact a {
+  color: white;
+  text-decoration: underline;
+}
+
+.contact-buttons {
+  margin-top: 20px;
 }
 
 footer {
