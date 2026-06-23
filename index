@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>IT Training Hub</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <nav class="navbar">
+      <div class="logo">IT Training Hub</div>
+      <ul>
+        <li><a href="#home">Home</a></li>
+        <li><a href="#about">About</a></li>
+        <li><a href="#courses">Courses</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section id="home" class="hero">
+    <div class="hero-content">
+      <h1>Learn IT Skills. Build Your Career.</h1>
+      <p>Professional training in Data Analytics, Python Full Stack, Power BI, SQL, Advanced Excel, MS Office, and C Programming.</p>
+      <a href="#courses" class="btn">Explore Courses</a>
+    </div>
+  </section>
+
+  <section id="about" class="section">
+    <h2>About IT Training Hub</h2>
+    <p>IT Training Hub is a professional training institute offering practical and career-focused IT courses for students, job seekers, and working professionals.</p>
+    <p>We provide beginner-friendly training with real-time examples, hands-on projects, interview preparation, and career guidance. Classes are available in Telugu and English through online and offline modes.</p>
+  </section>
+
+  <section id="courses" class="section light">
+    <h2>Courses Offered</h2>
+    <div class="course-grid">
+      <div class="course-card">Data Analytics with Generative AI</div>
+      <div class="course-card">Advanced Excel Training</div>
+      <div class="course-card">SQL for Reporting & Analytics</div>
+      <div class="course-card">Power BI Training</div>
+      <div class="course-card">Python Programming</div>
+      <div class="course-card">Python Full Stack Development</div>
+      <div class="course-card">Front End Web Development</div>
+      <div class="course-card">C Programming Language</div>
+      <div class="course-card">Generative AI & ChatGPT</div>
+      <div class="course-card">MS Office Training</div>
+    </div>
+  </section>
+
+  <section class="section">
+    <h2>Why Choose Us?</h2>
+    <div class="features">
+      <div>✅ Beginner-Friendly Training</div>
+      <div>✅ Real-Time Examples</div>
+      <div>✅ Practical Hands-on Learning</div>
+      <div>✅ Interview Preparation</div>
+      <div>✅ Career Guidance</div>
+      <div>✅ Online & Offline Classes</div>
+      <div>✅ Telugu & English Training</div>
+      <div>✅ Real-Time Projects</div>
+    </div>
+  </section>
+
+  <section id="contact" class="section contact">
+    <h2>Contact Us</h2>
+    <p><strong>Phone / WhatsApp:</strong> <a href="https://wa.me/916281734201" target="_blank">6281734201</a></p>
+    <p><strong>Email:</strong> bhargavisiddanthapu96@gmail.com</p>
+    <p><strong>Location:</strong> LB Nagar, Hyderabad - 500074</p>
+    <p><strong>YouTube:</strong> <a href="https://www.youtube.com/@ITTrainingHub" target="_blank">IT Training Hub</a></p>
+    <p><strong>Instagram:</strong> <a href="https://www.instagram.com/it_traininghub" target="_blank">@it_traininghub</a></p>
+
+    <div class="contact-buttons">
+      <a class="btn" href="https://wa.me/916281734201" target="_blank">Chat on WhatsApp</a>
+      <a class="btn youtube" href="https://www.youtube.com/@ITTrainingHub" target="_blank">Visit YouTube</a>
+      <a class="btn instagram" href="https://www.instagram.com/it_traininghub" target="_blank">Visit Instagram</a>
+    </div>
+  </section>
+
+  <footer>
+    <p>© 2026 IT Training Hub. All Rights Reserved.</p>
+    <p>Learn • Explore • Grow</p>
+  </footer>
+</body>
+</html>
